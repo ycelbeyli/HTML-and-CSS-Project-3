@@ -1,4 +1,4 @@
-# # Hello everyone. Welcome to my HTML and CSS tutorials!
+# Hello everyone. Welcome to my HTML and CSS tutorials!
 #### Hello everyone again. I continue the training from where I left off. The second project of this series is on the air!
 
 #### Click demo to try it by yourself!
